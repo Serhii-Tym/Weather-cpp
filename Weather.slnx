@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="Weather.vcxproj" Id="ba0bbe3b-52d6-4e74-9d83-0a8690ddab13" />
+</Solution>
